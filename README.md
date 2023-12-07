@@ -1,2 +1,3 @@
 # Bulls-and-Cows
-Bulls and Cows C#
+
+Use simple judgments and Random in C# to complete Bulls&Cows
